@@ -1,0 +1,5 @@
+Python files checked: 19
+Comment tokens: 0
+Docstrings: 0
+Syntax: OK
+User diagnostics, databases and personal logs: not included

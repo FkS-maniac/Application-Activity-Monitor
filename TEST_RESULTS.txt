@@ -1,0 +1,45 @@
+test_allow_does_not_override_session (test_release.FilterTests.test_allow_does_not_override_session) ... ok
+test_background_allow_override (test_release.FilterTests.test_background_allow_override) ... ok
+test_pid_four (test_release.FilterTests.test_pid_four) ... ok
+test_pid_zero (test_release.FilterTests.test_pid_zero) ... ok
+test_runtime (test_release.FilterTests.test_runtime) ... ok
+test_self (test_release.FilterTests.test_self) ... ok
+test_session_zero (test_release.FilterTests.test_session_zero) ... ok
+test_strict (test_release.FilterTests.test_strict) ... ok
+test_debug (test_release.LoggerTests.test_debug) ... ok
+test_extension (test_release.LoggerTests.test_extension) ... ok
+test_redaction_json (test_release.LoggerTests.test_redaction_json) ... ok
+test_redaction_plain (test_release.LoggerTests.test_redaction_plain) ... ok
+test_rotation (test_release.LoggerTests.test_rotation) ... ok
+test_schema (test_release.LoggerTests.test_schema) ... ok
+test_throttle (test_release.LoggerTests.test_throttle) ... ok
+test_trace (test_release.LoggerTests.test_trace) ... ok
+test_txt (test_release.LoggerTests.test_txt) ... ok
+test_category (test_release.StatsTests.test_category) ... ok
+test_clip (test_release.StatsTests.test_clip) ... ok
+test_custom (test_release.StatsTests.test_custom) ... ok
+test_dates (test_release.StatsTests.test_dates) ... ok
+test_empty (test_release.StatsTests.test_empty) ... ok
+test_history_active (test_release.StatsTests.test_history_active) ... ok
+test_open (test_release.StatsTests.test_open) ... ok
+test_overlap (test_release.StatsTests.test_overlap) ... ok
+test_parallel_apps (test_release.StatsTests.test_parallel_apps) ... ok
+test_union (test_release.StatsTests.test_union) ... ok
+test_zero (test_release.StatsTests.test_zero) ... ok
+test_categories (test_release.StorageTests.test_categories) ... ok
+test_config (test_release.StorageTests.test_config) ... ok
+test_merge (test_release.StorageTests.test_merge) ... ok
+test_old_config_defaults (test_release.StorageTests.test_old_config_defaults) ... ok
+test_old_retry_cannot_delay_stop (test_release.StorageTests.test_old_retry_cannot_delay_stop) ... ok
+test_pid_reuse (test_release.StorageTests.test_pid_reuse) ... ok
+test_reset_preserves (test_release.StorageTests.test_reset_preserves) ... ok
+test_stop_wakes_parked (test_release.StorageTests.test_stop_wakes_parked) ... ok
+test_touch_no_new_pending (test_release.StorageTests.test_touch_no_new_pending) ... ok
+test_upsert (test_release.StorageTests.test_upsert) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 0.056s
+
+OK
+
+All Python files parsed. Windows GUI/WMI/tray/build not executed in this environment.

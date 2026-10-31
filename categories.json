@@ -1,0 +1,164 @@
+{
+  "rules": {
+    "steam.exe": {
+      "display_name": "steam",
+      "category": "Games"
+    },
+    "steamwebhelper.exe": {
+      "display_name": "steamwebhelper",
+      "category": "Games"
+    },
+    "risk of rain 2.exe": {
+      "display_name": "Risk of Rain 2",
+      "category": "Games"
+    },
+    "eldenring.exe": {
+      "display_name": "eldenring",
+      "category": "Games"
+    },
+    "robloxplayerbeta.exe": {
+      "display_name": "Roblox",
+      "category": "Games"
+    },
+    "riotclientservices.exe": {
+      "display_name": "riotclientservices",
+      "category": "Games"
+    },
+    "chrome.exe": {
+      "display_name": "Google Chrome",
+      "category": "Browser"
+    },
+    "msedge.exe": {
+      "display_name": "msedge",
+      "category": "Browser"
+    },
+    "firefox.exe": {
+      "display_name": "firefox",
+      "category": "Browser"
+    },
+    "opera.exe": {
+      "display_name": "opera",
+      "category": "Browser"
+    },
+    "brave.exe": {
+      "display_name": "brave",
+      "category": "Browser"
+    },
+    "comet.exe": {
+      "display_name": "Comet",
+      "category": "Browser"
+    },
+    "code.exe": {
+      "display_name": "Visual Studio Code",
+      "category": "Development"
+    },
+    "pycharm64.exe": {
+      "display_name": "pycharm64",
+      "category": "Development"
+    },
+    "devenv.exe": {
+      "display_name": "devenv",
+      "category": "Development"
+    },
+    "python.exe": {
+      "display_name": "python",
+      "category": "Development"
+    },
+    "pythonw.exe": {
+      "display_name": "pythonw",
+      "category": "Development"
+    },
+    "windowsterminal.exe": {
+      "display_name": "windowsterminal",
+      "category": "Development"
+    },
+    "discord.exe": {
+      "display_name": "discord",
+      "category": "Communication"
+    },
+    "discordsystemhelper.exe": {
+      "display_name": "discordsystemhelper",
+      "category": "Communication"
+    },
+    "telegram.exe": {
+      "display_name": "telegram",
+      "category": "Communication"
+    },
+    "ayugram.exe": {
+      "display_name": "AyuGram",
+      "category": "Communication"
+    },
+    "slack.exe": {
+      "display_name": "slack",
+      "category": "Communication"
+    },
+    "teams.exe": {
+      "display_name": "teams",
+      "category": "Communication"
+    },
+    "explorer.exe": {
+      "display_name": "Проводник",
+      "category": "System"
+    },
+    "taskmgr.exe": {
+      "display_name": "taskmgr",
+      "category": "System"
+    },
+    "searchhost.exe": {
+      "display_name": "searchhost",
+      "category": "System"
+    },
+    "runtimebroker.exe": {
+      "display_name": "runtimebroker",
+      "category": "System"
+    },
+    "textinputhost.exe": {
+      "display_name": "textinputhost",
+      "category": "System"
+    },
+    "shellexperiencehost.exe": {
+      "display_name": "shellexperiencehost",
+      "category": "System"
+    },
+    "sihost.exe": {
+      "display_name": "sihost",
+      "category": "System"
+    },
+    "svchost.exe": {
+      "display_name": "svchost",
+      "category": "System"
+    },
+    "vlc.exe": {
+      "display_name": "vlc",
+      "category": "Media"
+    },
+    "spotify.exe": {
+      "display_name": "spotify",
+      "category": "Media"
+    },
+    "wmplayer.exe": {
+      "display_name": "wmplayer",
+      "category": "Media"
+    },
+    "winword.exe": {
+      "display_name": "winword",
+      "category": "Work"
+    },
+    "excel.exe": {
+      "display_name": "excel",
+      "category": "Work"
+    },
+    "powerpnt.exe": {
+      "display_name": "powerpnt",
+      "category": "Work"
+    },
+    "outlook.exe": {
+      "display_name": "outlook",
+      "category": "Work"
+    },
+    "sharex.exe": {
+      "display_name": "sharex",
+      "category": "Work"
+    }
+  }
+}

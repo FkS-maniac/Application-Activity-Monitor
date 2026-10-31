@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "mode": "all_user_apps",
+  "workers": 2,
+  "minimum_lifetime_seconds": 5,
+  "reconcile_seconds": 60,
+  "fallback_seconds": 10,
+  "retry_seconds": 60,
+  "max_retry_seconds": 1800,
+  "flush_seconds": 2,
+  "batch_size": 100,
+  "theme": "darkly",
+  "minimize_to_tray": true,
+  "current_user_only": true,
+  "current_session_only": true,
+  "exclude_self_and_children": true,
+  "excluded_users": [
+    "NT AUTHORITY\\SYSTEM",
+    "NT AUTHORITY\\LOCAL SERVICE",
+    "NT AUTHORITY\\NETWORK SERVICE"
+  ],
+  "excluded_session_ids": [
+    0
+  ],
+  "excluded_processes": [],
+  "excluded_paths": [],
+  "allowlist": [],
+  "exclude_os_background": true,
+  "database": "process_tracker_v2.db",
+  "ui_refresh_seconds": 15,
+  "log_level": "INFO",
+  "metrics_seconds": 60
+}
